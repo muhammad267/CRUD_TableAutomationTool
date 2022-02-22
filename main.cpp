@@ -17,7 +17,7 @@ vector <Project> hash_p(SIZE_p); // vector array for project class.
 const int SIZE_e=10; // employee vector array size.
 vector <EMPL> hash_e(SIZE_e); // vector array for employee class.
 
-const int size_e_title = 8; // employee array size.
+const int size_e_title = 9; // employee array size.
 string e_title[size_e_title]; //  array to store employee title. 
 const int size_d_title = 6; // department array size.
 string d_title[size_d_title]; // array to store department title.

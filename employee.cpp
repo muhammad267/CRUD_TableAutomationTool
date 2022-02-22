@@ -1,6 +1,8 @@
 #include "employee.h"
 #include <iostream>
 #include <regex>
+#include <sstream>
+#include <string>
 #include <fstream>
 
 using namespace std;
